@@ -1,0 +1,96 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Background */
+body {
+	/*background: #D2CBEB; */
+	background-image: url(https://cdn.wallpapersafari.com/83/95/UmNibZ.jpg)
+}
+
+/* Navigation */
+.nav {
+	width:98%;
+	height: 60px;
+	margin: 1% 1% 1% 1%;
+	/*background-color: #580AE7;
+	/*background-image: url(https://image.freepik.com/free-photo/smooth-dark-grey-asphalt-pavement-texture-background-with-small-rocks_73102-1665.jpg)*/
+}
+/* Button 1 */
+.NavButton {
+	height: auto;
+	width: auto;
+	font-size: 35px;
+	font-size-adjust: auto;
+	font-family: 'Franklin Gothic Bold', 'Arial Black', 'sans-serif';
+	background-image: url(https://th.bing.com/th/id/R.11eec832886bc0e056b862af544ed13a?rik=iOpdNT%2fBhqm4gA&riu=http%3a%2f%2fmeltonbuildingsupplies.co.uk%2fwp-content%2fuploads%2f2019%2f04%2fchaucer-charcoal.jpg&ehk=%2fBPpPw7QtOIeNNRlEQ%2fnITcivGR9EoeLLFhIZBNB69Y%3d&risl=&pid=ImgRaw&r=0)
+} 
+.NavButton:hover{
+	height: auto;
+	width: auto;
+	font-size: 35px;
+	font-size-adjust: auto;
+	font-family: 'bowlby-one';
+}
+
+/* Header */
+.header {
+	width:98%;
+	height: 60px;
+	margin: 1% 1% 1% 1%;
+	background-color: #580AE7;
+	opacity: 70%;
+}
+/* Main */
+.main {
+	width:98%;
+	height: 800px;
+	margin: 1% 1% 1% 1%;
+}
+.mainleft {
+	width: 50%;
+	height:800px;
+	background-color: #09080F;
+	opacity: 70%;
+	float: left;
+}
+.mainright {
+	width: 50%;
+	height:800px;
+	background-color: #090713;
+opacity: 70%;
+	float: right;
+}
+/* Footer */
+.footer {
+	width:98%;
+	height: 100px;
+	margin: 1% 1% 1% 1%;
+	background-color: #000;
+	opacity: 70%;
+	position: absolute;
+	
+}
+.footersocial {
+	width:98%;
+	height: 100px;
+	margin: 1% 1% 1% 1%;
+	float: right;
+	position: absolute;
+}
+.footerlinks {
+	width:98%;
+	height: 100px;
+	margin: 1% 1% 1% 1%;
+	float: left;
+	position: absolute;
+}
+.footercopyright {
+	width:98%;
+	height: 100px;
+	margin: 1% 1% 1% 1%;
+	position: absolute;
+}
+/* Header 2 */
+.h2{
+	color: #fff;
+}
